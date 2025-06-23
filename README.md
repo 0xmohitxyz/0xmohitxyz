@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/0xmoh1t" target="blank"><img src="https://img.shields.io/twitter/follow/0xmoh1t?logo=twitter&style=for-the-badge" alt="0xmoh1t" /></a> </p>
 
-- 🔭 I’m currently working on **deVotes- A DeCentralized voting platform**
+- 🔭 I’m currently working on **SeiFun- A NoCode token launching platform on Sei**
 
-- 🌱 I’m currently learning **Foundary and gas optimization**
+- 🌱 I’m currently learning **WebDevelopment**
 
-- 👯 I’m looking to collaborate on **blockchain projects based on EVM**
+- 👯 I’m looking to collaborate on **blockchain projects**
 
 - 💬 Ask me about **Blockchain,smart contracts and Java Script**
 
