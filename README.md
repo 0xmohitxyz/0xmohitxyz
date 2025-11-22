@@ -1,3 +1,4 @@
+![GitHub Streak](https://streak-stats.demolab.com?user=0xmohitxyz&theme=default)
 <h1 align="center">Hi 👋, I'm Mohit Dad</h1>
 <h3 align="center">A passionate smart contract developer from India</h3>
 
